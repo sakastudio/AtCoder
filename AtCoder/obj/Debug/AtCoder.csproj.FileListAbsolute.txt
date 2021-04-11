@@ -1,0 +1,6 @@
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\bin\Debug\AtCoder.exe
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\bin\Debug\AtCoder.pdb
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\obj\Debug\AtCoder.csprojAssemblyReference.cache
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\obj\Debug\AtCoder.csproj.CoreCompileInputs.cache
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\obj\Debug\AtCoder.exe
+C:\Users\satou_katsumi\RiderProjects\AtCoder\AtCoder\obj\Debug\AtCoder.pdb
