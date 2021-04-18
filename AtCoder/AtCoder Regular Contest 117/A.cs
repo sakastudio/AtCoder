@@ -21,7 +21,7 @@ long[] inputLongArray = Console.ReadLine().Split(' ').Select(i => long.Parse(i))
      */
     public class A
     {
-        public static void Main(string[] args)
+        public static void _Main(string[] args)
         {
             long[] inputLongArray = Console.ReadLine().Split(' ').Select(i => long.Parse(i)).ToArray();
             int[] god = new int[inputLongArray[0]+inputLongArray[1]];

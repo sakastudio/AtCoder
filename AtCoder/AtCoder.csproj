@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="AtCoder Regular Contest 117\A.cs" />
+        <Compile Include="AtCoder Regular Contest 117\B.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
