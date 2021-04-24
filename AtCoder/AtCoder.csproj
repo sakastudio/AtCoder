@@ -40,6 +40,7 @@
     <ItemGroup>
         <Compile Include="AtCoder Beginner Contest 199\A.cs" />
         <Compile Include="AtCoder Beginner Contest 199\B.cs" />
+        <Compile Include="AtCoder Beginner Contest 199\C.cs" />
         <Compile Include="AtCoder Regular Contest 117\A.cs" />
         <Compile Include="AtCoder Regular Contest 117\B.cs" />
         <Compile Include="Program.cs" />

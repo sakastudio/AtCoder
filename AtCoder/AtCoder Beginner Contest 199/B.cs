@@ -6,7 +6,7 @@ namespace AtCoder.AtCoder_Beginner_Contest_199
     public class B
     {
         
-        public static void Main(string[] args)
+        public static void _Main(string[] args)
         {
             string s = Console.ReadLine();
             int[] A = Console.ReadLine().Split(' ').Select(i => int.Parse(i)).ToArray();
