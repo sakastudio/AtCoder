@@ -8,7 +8,7 @@ namespace AtCoder.AtCoder_Regular_Contest_117
         
         public static void _Main(string[] args)
         {
-            
+            string s = Console.ReadLine();
             long n = long.Parse(Console.ReadLine());
             int[] A = Console.ReadLine().Split(' ').Select(i => int.Parse(i)).ToArray();
             
