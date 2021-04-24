@@ -6,7 +6,7 @@ namespace AtCoder.AtCoder_Regular_Contest_117
     public class B
     {
         
-        public static void Main(string[] args)
+        public static void _Main(string[] args)
         {
             
             long n = long.Parse(Console.ReadLine());
