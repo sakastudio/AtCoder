@@ -6,7 +6,7 @@ namespace AtCoder.AtCoder_Beginner_Contest_199
 {
     public class C
     {
-        public static void Main(string[] args)
+        public static void _Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
             StringBuilder sb = new StringBuilder(Console.ReadLine());
